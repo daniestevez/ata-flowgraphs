@@ -511,7 +511,7 @@ blocks:
     dc_offs_enb7: default
     dc_offs_enb8: default
     dc_offs_enb9: default
-    dev_addr: '"addr0=10.11.1.21,addr1=10.11.1.23,clock_source=external,time_source=external"'
+    dev_addr: '"addr0=10.11.1.20,addr1=10.11.1.22,clock_source=external,time_source=external"'
     dev_args: '""'
     gain0: gaindB
     gain1: gaindB
